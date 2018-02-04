@@ -2,4 +2,10 @@
     <string name="app_name">HIKAMHAIKAL_1202150029_Modul1</string>
     <string name="judul">Makan Malam</string>
     <string name="subjudul">dengan Milea</string>
+    <string name="eatbus">EATBUS</string>
+    <string name="abnormal">ABNORMAL</string>
+    <string name="eb">EATBUS</string>
+    <string name="tidakcukup">Uangmu tidak cukup untuk makan di sini, cari tempat lain saja</string>
+    <string name="dimana">dimana</string>
+    <string name="takcukup">Uangmu tidak cukup untuk makan malam di sini, cari tempat lain saja</string>
 </resources>
